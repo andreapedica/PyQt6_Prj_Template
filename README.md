@@ -1,0 +1,1 @@
+# PyQt6_Prj_Template
